@@ -11,7 +11,7 @@ A full-stack Hospital Management web application built with **React**, **Node.js
 
 ## 🌐 Live Demo
 
-> Not deployed yet — for local setup, follow the instructions below.
+> https://appointment-system-git-main-divy-chavdas-projects.vercel.app/
 
 ---
 
